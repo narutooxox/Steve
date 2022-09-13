@@ -63,3 +63,12 @@ LOG_STR += ("Long IMDB storyline enabled." if LONG_IMDB_DESCRIPTION else "LONG_I
 LOG_STR += ("Spell Check Mode Is Enabled, bot will be suggesting related movies if movie not found\n" if SPELL_CHECK_REPLY else "SPELL_CHECK_REPLY Mode disabled\n")
 LOG_STR += (f"MAX_LIST_ELM Found, long list will be shortened to first {MAX_LIST_ELM} elements\n" if MAX_LIST_ELM else "Full List of casts and crew will be shown in imdb template, restrict them by adding a value to MAX_LIST_ELM\n")
 LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
+
+DOWNLOAD_TEXT_NAME = environ.get("DOWNLOAD_TEXT_NAME", "🔻How To Download 🔻")
+DOWNLOAD_TEXT_URL = environ.get("DOWNLOAD_TEXT_URL", "https://www.google.com/")
+
+   # Custom Caption Under Button #
+CAPTION_BUTTON = environ.get("CAPTION_BUTTON", "Support ⚡")
+CAPTION_BUTTON_URL = environ.get("CAPTION_BUTTON_URL", "https://www.google.com/")
+
+YOUR_CHANNEL = environ.get("YOUR_CHANNEL", "https://www.google.com/")
