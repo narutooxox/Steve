@@ -4,17 +4,17 @@ class script(object):
 ɪ ᴀᴍ ᴀ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ + ᴍᴏᴠɪᴇ sᴇᴀʀᴄʜ + ᴍᴀɴᴜᴀʟ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ʏᴏᴜ ᴄᴀɴ sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ᴠɪᴀ ɪɴʟɪɴᴇ. ɪ ᴄᴀɴ ᴀʟsᴏ ᴀᴅᴅ ꜰɪʟᴛᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ😌"""
     HELP_TXT = """Hey {}
 Here Is The Help For MY Commands."""
-    ABOUT_TXT = """**🤖 ʙᴏᴛ ɴᴀᴍᴇ: [sᴛᴇᴠᴇ ʜᴀʀʀɪɴɢᴛᴏɴ ](t.me/KingSteve1_Bot)
+    ABOUT_TXT = """<b><i>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href=https://t.me/KingSteve1_Bot><b>sᴛᴇᴠᴇ ʜᴀʀʀɪɴɢᴛᴏɴ</b></a>\n
     
-📝 **ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ ](https://www.python.org)**
+📝 ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org><b>ᴘʏᴛʜᴏɴ</b></a>\n
 
-📚 **ꜰʀᴀᴍᴇᴡᴏʀᴋ : [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)**
+📚 **ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href=https://github.com/pyrogram/pyrogram><b>ᴘʏʀᴏɢʀᴀᴍ</b></a>\n
 
-📡 **ʜᴏsᴛᴇᴅ ᴏɴ : [ʜᴇʀᴏᴋᴜ](heroku.com)**
+📡 **ʜᴏsᴛᴇᴅ ᴏɴ : <a href=heroku.com><b>ʜᴇʀᴏᴋᴜ</b></a>\n
 
-👨‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ : [ᴊᴏɴ sɴᴏᴡ](https://t.me/JonSnow11)**
+👨‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/JonSnow11><b>ᴊᴏɴ sɴᴏᴡ</b></a>\n
 
-👥 **sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ : [ʀᴏʟᴇx ᴄᴏᴍᴍᴜɴɪᴛʏ](https://t.me/RolexMoviesOX)**
+👥 **sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/RolexMoviesOX><b>ʀᴏʟᴇx ᴄᴏᴍᴍᴜɴɪᴛʏ</b></a>\n
 """
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
     
@@ -99,6 +99,7 @@ This module only works for my admins
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
     STATUS_TXT = """<b>📁 ᴛᴏᴛᴀʟ ꜰɪʟᴇs :</b> <b>{}</b>
+
 <b>👤 ᴛᴏᴛᴀʟ ᴜsᴇʀs :</b> <b>{}</b>
 
 <b>👥 ᴛᴏᴛᴀʟ ᴄʜᴀᴛs :</b> <b>{}</b>
