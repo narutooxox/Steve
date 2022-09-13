@@ -1,5 +1,7 @@
 class script(object):
-    START_TXT = environ.get("START_TXT", " Hello {} 👋🏻 Im Rolex Bot I can share Movies and Series 😁.")
+    START_TXT = """<b> Hᴇʟʟᴏ {}</b> 😁
+    
+ɪ ᴀᴍ ᴀ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ + ᴍᴏᴠɪᴇ sᴇᴀʀᴄʜ + ᴍᴀɴᴜᴀʟ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ʏᴏᴜ ᴄᴀɴ sᴇᴀʀᴄʜ ᴍᴏᴠɪᴇs ᴠɪᴀ ɪɴʟɪɴᴇ. ɪ ᴄᴀɴ ᴀʟsᴏ ᴀᴅᴅ ꜰɪʟᴛᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs. ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ😌"""
     HELP_TXT = """Hey {}
 Here Is The Help For MY Commands."""
     ABOUT_TXT = """**🤖 ʙᴏᴛ ɴᴀᴍᴇ: [sᴛᴇᴠᴇ ʜᴀʀʀɪɴɢᴛᴏɴ ](t.me/KingSteve1_Bot)
