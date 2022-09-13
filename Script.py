@@ -2,9 +2,13 @@ class script(object):
     START_TXT = environ.get("START_TXT", " Hello {} 👋🏻 Im Rolex Bot I can share Movies and Series 😁.")
     HELP_TXT = """Hey {}
 Here Is The Help For MY Commands."""
-    ABOUT_TXT = """<b><i>😎 Owner : <a href=https://t.me/JonSnow11><b>Jon Snow</b></a>\n
-📡 Host : ʜᴇʀᴏᴋᴜ\n
-🌟 Version : ᴠ 4.0 [ ʙᴇᴛᴀ ]\n</b></i>"""
+    ABOUT_TXT = """**🤖 ʙᴏᴛ ɴᴀᴍᴇ: [sᴛᴇᴠᴇ ʜᴀʀʀɪɴɢᴛᴏɴ ](t.me/KingSteve1_Bot)
+📝 **ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ ](https://www.python.org)**
+📚 **ꜰʀᴀᴍᴇᴡᴏʀᴋ : [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)**
+📡 **ʜᴏsᴛᴇᴅ ᴏɴ : [ʜᴇʀᴏᴋᴜ](heroku.com)**
+👨‍💻 **ᴅᴇᴠᴇʟᴏᴘᴇʀ : [ᴊᴏɴ sɴᴏᴡ](https://t.me/JonSnow11)**
+👥 **sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ : [ʀᴏʟᴇx ᴄᴏᴍᴍᴜɴɪᴛʏ](https://t.me/RolexMoviesOX)**
+"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » First Share Me Your Heroku Api
 » I will Create One Bot For You<b>
